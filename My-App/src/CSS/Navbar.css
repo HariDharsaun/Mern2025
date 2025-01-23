@@ -19,3 +19,14 @@ ol{
     padding: 5px;
     border-radius: 3px;
 }
+
+.ddlink{
+    text-decoration: none;
+    color: black;
+}
+
+.hookdd{
+    background-color: lightsalmon;
+    padding: 5px;
+    border-radius: 5px;
+}
