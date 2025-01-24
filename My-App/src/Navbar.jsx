@@ -25,6 +25,7 @@ const Navbar = () => {
                                     <li><Link to='/useeffect' className="ddlink">useEffect</Link></li>
                                     <li><Link to='/useref' className="ddlink">useRef</Link></li>
                                     <li><Link to='/usememo' className="ddlink">useMemo</Link></li>
+                                    <li><Link to='/usecallback' className="ddlink">useCallBack</Link></li>
                                 </ul>
                             </div>
                         )}

@@ -27,6 +27,7 @@ function App() {
           <Route path="/useeffect" element={<UseEffect/>} />
           <Route path="/useref" element={<UseRef/>} />
           <Route path="/usememo" element={<UseMemo />} />
+          <Route path="/usecallback" element={<UseCallback />}></Route> 
           <Route path='/signup' element={<SignUp />} />
         </Routes>
       </Router>
