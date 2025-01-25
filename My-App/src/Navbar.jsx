@@ -26,11 +26,11 @@ const Navbar = () => {
                                     <li><Link to='/useref' className="ddlink">useRef</Link></li>
                                     <li><Link to='/usememo' className="ddlink">useMemo</Link></li>
                                     <li><Link to='/usecallback' className="ddlink">useCallBack</Link></li>
+                                    <li><Link to='/signup' className="link">Signup</Link></li>
                                 </ul>
                             </div>
                         )}
                     </div>
-                    <li><Link to='/signup' className="link">Signup</Link></li>
                 </ol>
             </nav>
         </header>
